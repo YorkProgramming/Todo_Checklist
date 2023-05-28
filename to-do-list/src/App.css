@@ -1,0 +1,52 @@
+.App {
+  justify-content: center;
+  text-align: center;
+  background-color: darkgray;
+  
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-dark {
+  border-left-color:black;
+  background-color: red;
+  
+}
+
+.list {
+  border: 8px black;
+  border-radius: 10px;
+  border-left: 20px black;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-primary {
+  color: black;
+  background-color: red;
+  border: 6px black;
+  border-radius: 10px;
+  width: 100px;
+  margin-left: 800px;
+
+}
+
+.card {
+  background-color: darkcyan;
+  border: 8px black;
+  border-left: 20px black;
+  color: white;
+  margin: 20px;
+
+}
+
+
